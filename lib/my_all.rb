@@ -13,5 +13,5 @@ yield(collection[i])
   else
     true
   end
-end
+
 end
